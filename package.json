@@ -1,0 +1,24 @@
+{
+  "name": "calculator-jtc",
+  "version": "1.0.0",
+  "description": "Do arithmetic operations simply by passing required arguments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabh-jtc/calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "arithmetic",
+    "operations"
+  ],
+  "author": "sourabh-jtc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabh-jtc/calculator/issues"
+  },
+  "homepage": "https://github.com/sourabh-jtc/calculator#readme"
+}
