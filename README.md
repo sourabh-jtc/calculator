@@ -1,6 +1,6 @@
 # What is this?
 
-Get perfect shadows every time for the non-designer.
+Get airthmetic operations done with simply passing arguments
 
 # Installation
 
