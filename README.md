@@ -4,12 +4,12 @@ Get airthmetic operations done with simply passing arguments
 
 # Installation
 
-`npm i calculator --save`
+`npm i calculator-jtc --save`
 
 Then...
 
 ```
-import { calculator } from 'calculator';
+import { calculator } from 'calculator-jtc';
 
 calculator({
     num1: 5,
