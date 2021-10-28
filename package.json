@@ -1,6 +1,6 @@
 {
   "name": "calculator-jtc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Do arithmetic operations simply by passing required arguments",
   "main": "index.js",
   "scripts": {

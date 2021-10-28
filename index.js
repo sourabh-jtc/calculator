@@ -18,6 +18,9 @@ function calculator(num1, num2, operation){
     if(operation==='/'){
         console.log(num1/num2)
     }
+    if(operation !== '+' && operation !== '-' && operation !== '*' && operation !== '/'){
+        console.log('Please provide valid arithmetical operation..')
+    }
     
 }
 
